@@ -1,0 +1,1 @@
+This program utilizes the Animal Crossing New Horizons API from http://acnhapi.com/ to create a program to track the current available fish. This program allows you to choose the hemisphere in which you are located in, as well as your preferred language.
